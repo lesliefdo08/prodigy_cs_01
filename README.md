@@ -1,5 +1,5 @@
 # Leslie Fernando prodigy_cs_01
-Caesar Cipher Encoder & Decoder (Python)
+Caesar Cipher Encoder & Decoder
 
 This is a simple Python script that allows users to encrypt and decrypt text using the Caesar Cipher algorithm. It takes a message and a numeric shift value as input and shifts each letter accordingly to perform encryption or decryption.
 
